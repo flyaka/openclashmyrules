@@ -1,9 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 新增的建站的域名，走直连 2026年05月28日
-DOMAIN-SUFFIX,hostinger.com
-DOMAIN-SUFFIX,hostingersite.com
-DOMAIN-KEYWORD,hstgr
+# 新增的建站的域名，走直连 2026年05月28日  2026年10月11日修改，移除
+# DOMAIN-SUFFIX,hostinger.com
+# DOMAIN-SUFFIX,hostingersite.com
+# DOMAIN-KEYWORD,hstgr
 
 
 # MyList
